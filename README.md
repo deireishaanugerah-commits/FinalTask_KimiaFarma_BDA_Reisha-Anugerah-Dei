@@ -8,3 +8,7 @@ Rakamin Academy adalah sebuah platform pelatihan vokasional yang menghubungkan e
 
 # Deksripsi Project
 Sebagai Big Data Analytics Intern di Kimia Farma, saya diberikan tugas untuk menganalisis kinerja bisnis Kimia Farma dari tahun 2020–2023 dengan memanfaatkan data transaksi, produk, inventori, dan cabang.  Analisis ini dilakukan menggunakan BigQuery dan hasil akhirnya divisualisasikan dalam bentuk dashboard menggunakan Looker Studio.
+
+# Link Dashboard
+https://lookerstudio.google.com/reporting/123ca6bc-ad94-426b-b197-afa0c4dcc1d5
+
